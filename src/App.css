@@ -1,0 +1,49 @@
+.active{
+    background-color: red;
+    transition: all 1.5s linear;
+}
+
+.movie-card{ 
+    cursor:pointer;
+}
+
+.card-action{
+    display: none;
+}
+
+ 
+
+
+.movie-card:hover
+.card-action
+{ 
+    display: block;
+}
+
+.slideshow{
+    width: 95%;  
+    margin: 10px 0 0 0;
+    /* border: 1px solid red; */
+}
+
+.slider{
+    width: 95%; 
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.slick-slide{
+    width: 100vw;
+}
+
+ .slideshowCard{
+    /* background-color: red; */
+ }
+
+.boxstyle{
+    overflow : hidden; 
+}
+
+ 
